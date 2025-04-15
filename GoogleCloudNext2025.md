@@ -33,11 +33,19 @@ The session "Secure from code to cloud with Security Command Center" (https://ww
 
 In the session "Exploring and securing Google Cloud default service accounts: Deep dive and real-world adoption trends", the speaker recommended checking out this article for a deeper understanding of the topic: Exploring Google Cloud Default Service Accounts: Deep Dive and Real-World Adoption Trends. This article provides a comprehensive look at the functionality, risks, and adoption trends associated with default service accounts in Google Cloud, a crucial aspect of GCP security.
 
+#### Modern Detection Engineering with Google SecOps
+
+Another standout session was "Modern detection engineering with Google SecOps". While unfortunately not recorded, the insights shared on building and maintaining effective detection rules within Google Security Operations were invaluable. The session highlighted how Google SecOps empowers security operations teams by providing curated, out-of-the-box detections for the latest threats, alongside powerful capabilities for building custom rules leveraging entity graphs, AI, and a rich set of functions and context. This modern approach to detection engineering is crucial for staying ahead of sophisticated adversaries.
+
 #### Proactive Risk Discovery: Deploying a Virtual Red Team
 
 The session "Deploying a virtual red team to find cloud risks you didn’t know about" (https://www.youtube.com/watch?v=TdGkKm5KGhY&t=1s) highlighted the power of proactive risk identification. The explanation of how SCC uses virtual red team technology and a new security graph to continuously analyze cloud resource configurations, software vulnerabilities, and identity and access policies at scale was impressive. This capability to pinpoint the issues that pose the most significant risk is invaluable in a complex GCP environment with potentially thousands of security findings.
 
 ![Google Cloud next 2025 expo2](img/GCN25-expo2.JPG)
+
+### Recommended Reading: The Defenders Advantage
+
+ I highly recommend downloading the e-book "The Defenders Advantage" from Google Cloud Security. It offers valuable insights and strategies for building a resilient security posture in the cloud. You can find a free copy here: [The Defenders Advantage](https://cloud.google.com/security/resources/defenders-advantage?hl=en)
 
 ## Key Takeaways and Reflections:
 
