@@ -1,7 +1,7 @@
 ## Diving Deep into the Future of Cloud Security: My Top Takeaways from Google Cloud Next 2025
 Google Cloud Next 2025 has just wrapped up, and my head is buzzing with exciting announcements, insightful sessions, and a renewed sense of the incredible innovation happening in cloud security. As a Cloud Security Engineer deeply invested in all things GCP security – from threat detection to cloud posture management and DevSecOps – I made it a priority to attend as many security-focused sessions as possible.
 
-Even though I paid out of pocket (thankfully snagging a student discount for the $300 conference pass!), leveraging credit card points for the RT flight and a generous hotel transfer from a friend (costing me roughly $150 for 3 nights), I can confidently say that Google Cloud Next is an invaluable conference for any practitioner working within the Google Cloud Platform.
+Even though I paid out of pocket (thankfully snagging a student discount for the $300 conference pass!), leveraging credit card points for the RT flight to Vegas and a generous hotel transfer from a friend (costing me roughly $150 for 3 nights), I can confidently say that Google Cloud Next is an invaluable conference for any practitioner working within the Google Cloud Platform.
 
 ![Google Cloud Next 2025 Expo](img/GCN25-expo1.JPG)
 
