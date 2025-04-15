@@ -31,7 +31,7 @@ The session "Secure from code to cloud with Security Command Center" (https://ww
 
 #### Understanding Default Service Accounts
 
-In the session "Exploring and securing Google Cloud default service accounts: Deep dive and real-world adoption trends", the speaker recommended checking out this article for a deeper understanding of the topic: Exploring Google Cloud Default Service Accounts: Deep Dive and Real-World Adoption Trends. This article provides a comprehensive look at the functionality, risks, and adoption trends associated with default service accounts in Google Cloud, a crucial aspect of GCP security.
+In the session "Exploring and securing Google Cloud default service accounts: Deep dive and real-world adoption trends", the speaker recommended checking out [this Datadog blog](https://securitylabs.datadoghq.com/articles/google-cloud-default-service-accounts/) for a deeper understanding of the topic: Exploring Google Cloud Default Service Accounts: Deep Dive and Real-World Adoption Trends. This blog provides a comprehensive look at the functionality, risks, and adoption trends associated with default service accounts in Google Cloud, a crucial aspect of GCP security.
 
 #### Modern Detection Engineering with Google SecOps
 
